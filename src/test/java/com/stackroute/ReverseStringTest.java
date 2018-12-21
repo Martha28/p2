@@ -6,7 +6,7 @@ import org.junit.Test;
 public  class ReverseStringTest {
 
 
-    public ReverseString rever = new ReverseString();
+     ReverseString rever = new ReverseString();
   @Test
     public  void reversefun()
     {
