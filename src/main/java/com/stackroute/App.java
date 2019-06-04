@@ -1,9 +1,6 @@
 package com.stackroute;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void hello(){
@@ -11,5 +8,7 @@ public class App
     }
     public static void main( String[] args )
     {
+        App h=new App();
+        h.hello();
     }
 }
