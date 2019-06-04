@@ -6,7 +6,7 @@ package com.stackroute;
  */
 public class App 
 {
-    public static hello(){
+    public static void hello(){
         System.out.println( "Hello World!" );
     }
     public static void main( String[] args )
